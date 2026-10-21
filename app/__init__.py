@@ -1,0 +1,1 @@
+"""ScholarBee AI backend package."""
